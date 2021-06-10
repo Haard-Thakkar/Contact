@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+}
+footer {
+    margin-top: 100px;
+    font-size: 25px;
+}
+a:hover {
+    color: red;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
